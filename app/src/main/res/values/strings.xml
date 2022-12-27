@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">evaTestApp</string>
+    <string name="search">Пошук</string>
+    <string name="favorite">Улюблені</string>
+    <string name="author">Автор:</string>
+    <string name="created_ad">Дата створення:</string>
+    <string name="likes">Лайків:</string>
+    <string name="share">Поділитись</string>
+    <string name="add_to_favorite">Додати до улюблених</string>
+    <string name="delete_from_favorite">Видалити з улюблених</string>
+</resources>
